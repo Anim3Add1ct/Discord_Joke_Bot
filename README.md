@@ -13,3 +13,6 @@
 <h3>The !help Command In Use</h3>
 
 ![help command](help_command.png)
+
+<h2>License</h2>
+<p>This is a public repository hosted on GitHub. If you wish to fork or use my code, please credit me using a comment in your code.</p>
