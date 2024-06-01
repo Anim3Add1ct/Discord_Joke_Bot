@@ -1,6 +1,14 @@
 <h1 align="center" id="title">JokeBot</h1>
 
-<p id="description">JokeBot is a Discord chatbot created using Python 3.0 and the discord.py library. Its sole function is to send a random joke to the user when the user runs the associated command.</p>
+<p id="description">JokeBot is a Discord chatbot created using Python 3.0 and the discord.py library. Its sole function is to send a random joke to the user when the user runs the associated command. The additonal packages that need to be installed before using are:</p>
+
+<ol>
+  <li>discord</li>
+  <li>requests</li>
+  <li>DiscordUtils</li>
+  <li>commands from discord.ext</li>
+  <li>json</li>
+</ol>
 
 <h2>Project Screenshots:</h2>
 
